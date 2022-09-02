@@ -22,7 +22,6 @@ nav {
 }
 h4, h6 {
   text-align:center;
-  color: black;
   font-weight: bold;
 }
 .meal-img{
@@ -30,10 +29,9 @@ h4, h6 {
 }
 #about {
   color: #2C5F2D;
+  border-style: groove;
 }
 #services {
-  background-color: #2C5F2D;
   margin: 50px;
   padding: 25px;
-  box-shadow: 5px black;
 }
