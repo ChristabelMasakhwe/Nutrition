@@ -31,3 +31,9 @@ h4, h6 {
 #about {
   color: #2C5F2D;
 }
+#services {
+  background-color: #2C5F2D;
+  margin: 50px;
+  padding: 25px;
+  box-shadow: 5px black;
+}
