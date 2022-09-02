@@ -1,0 +1,37 @@
+
+.hero {
+  height: 100vh;
+  display: flex;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
+    url("https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&dl=brooke-lark-08bOYnH_r_E-unsplash.jpg&q=80&fm=jpg&crop=entropy&cs=tinysrgb");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2C5F2D;
+  font-size:x-large;
+}
+h4, h6 {
+  text-align:center;
+  font-weight: bold;
+}
+.meal-img{
+  object-fit: cover;
+}
+#about {
+  color: #2C5F2D;
+  border-style: groove;
+}
+#services {
+  margin: 50px;
+  padding: 25px;
+}
